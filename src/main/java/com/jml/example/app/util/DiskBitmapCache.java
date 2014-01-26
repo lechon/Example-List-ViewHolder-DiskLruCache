@@ -1,4 +1,4 @@
-package util;
+package com.jml.example.app.util;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
